@@ -11,8 +11,11 @@
 :small_blue_diamond: Câmera: 3ª pessoa.
 <br>
 
-## Página Inicial
-<p align="justify"> 
-	Nesta página, foi escolhido um papel de parede mais escuro, assim destacandoos outros itens da página, mas que tudo tem haver com o tema, pois é uma imagem típica da capa do game, porém somente em preto e branco. No topo da activity, tem uma ImageView e TextView que juntas representam a logo do aplicativo, e logo abaixo temos 4 Button's que nos levarão às páginas de conteúdo. Ao final da página temos um ImageButton que nos redireciona ao site oficial do Red Dead Redemption 2.
+## Regras
+:small_blue_diamond: Caso um guarda te encontre, o jogo irá recomeçar desde a primeira fase.
+<br>
+:small_blue_diamond: Cada fase tem um objetivo, para encerrá-la, deve-se finalizar o objetivo estipulado.
+<br>
+:small_blue_diamond: Se a fase não for finalizada, o jogador continuará na cena, pois não tem tempo limite.
 <br>
 

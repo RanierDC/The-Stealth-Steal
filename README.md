@@ -5,9 +5,6 @@
 <p align="justify"> 
 	O jogo vai se tratar de um espião que irá se infiltrar em um prédio de um importante governador, onde irá realizar um furto de informações confidenciais dentro de um cofre, em seu escritório. Ele terá que passar de maneira furtiva por vários guradas (que vão ser os inimigos que irá dificultar o jogo).
 </p>
-<p align="justify"> 
-	Para vizualizar este app com um detalhamento e explicação audiovisual <a href="https://youtu.be/u8qHYpzK5VM">clique aqui</a>, que irá te redirecionar para o vídeo do nosso aplicativo no Youtube.
-</p>
 <br>
 <div align="center">
 <img height="250px" src="https://github.com/RanierDC/RedDead2-Wiki/assets/90422755/89b966f4-1f7b-4523-bb35-039878443f20"/>

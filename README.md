@@ -3,7 +3,7 @@
 
 ## Descrição Geral do Game
 <p align="justify"> 
-	O jogo vai se tratar de um espião que irá se infiltrar em um prédio de um importante governador, onde irá realizar um furto de informações confidenciais dentro de um cofre, em seu escritório. Ele terá que passar de maneira furtiva por vários guradas (que vão ser os inimigos que irá dificultar o jogo).
+	O jogo vai se tratar de um espião que irá se infiltrar em um prédio de um importante governador, onde irá realizar um furto de informações confidenciais dentro de um cofre, em seu escritório. Ele terá que passar de maneira furtiva por vários guradas (que vão ser os inimigos que irá dificultar o jogo). O game vai ser em 3D.
 </p>
 
 :small_blue_diamond: <b>Gênero:</b> Stealth, suspence.
@@ -31,3 +31,15 @@
 <br>
 <br>
 :small_blue_diamond: <b>3º cena:</b> Após entrar no elevador, chega a última cena do game, que se trata do escritório no último andar com o objetos muito similar com o do primeiro andar. O objetivo desta fase é achar duas chaves escondidas na cena para que assim posa abrir o cofre e finalizar o game.
+<br>
+<br>
+## Idéia do Mobile
+<p align="justify"> 
+	A página inicial será uma tela separando duas opções que o usuário vai poder escolher. Sendo elas as opções "Guia" e "História". 
+</p>
+<p align="justify"> 
+	O "Guia" será bem simples com certas instruções ao jogador em relação a cada fases caso o jogador tenha difilcudades ao tentar jogar cada nível, com algumas dicas e ensinar sobre os caminhos dos guardas (principal dificuldade). 
+</p>
+<p align="justify"> 
+	Já a parte da "História" será contando um pouco com certos detalhes a narrativa por trás do jogo, que não vai ser abordada de forma profunda in-game.
+</p>

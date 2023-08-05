@@ -3,7 +3,7 @@
 
 ## Descrição Geral do Game
 <p align="justify"> 
-	O jogo vai se tratar de um espião que irá se infiltrar em um prédio de um importante governador, onde irá realizar um furto de informações confidenciais dentro de um cofre, em seu escritório. Ele terá que passar de maneira furtiva por vários guradas (que vão ser os inimigos que irá dificultar o jogo). O game vai ser em 3D.
+	O jogo vai se tratar de um espião que irá se infiltrar em um prédio de um importante governador, onde irá realizar um furto de informações confidenciais dentro de um cofre, em seu escritório. Ele terá que passar de maneira furtiva por vários guardas (que vão ser os inimigos que irá dificultar o jogo). O game vai ser em 3D.
 </p>
 
 :small_blue_diamond: <b>Gênero:</b> Stealth, suspence.

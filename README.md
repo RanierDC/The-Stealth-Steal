@@ -1,45 +1,46 @@
 # The Stealth Steal
-### Alunos: Caio Silva e Ranier Dalton 
+### Alunos e Desenvolvedores: Caio Silva e Ranier Dalton 
 
 ## Descrição Geral do Game
 <p align="justify"> 
-	O jogo vai se tratar de um espião que irá se infiltrar em um prédio de um importante governador, onde irá realizar um furto de informações confidenciais dentro de um cofre, em seu escritório. Ele terá que passar de maneira furtiva por vários guardas (que vão ser os inimigos que irá dificultar o jogo). O game vai ser em 3D.
+	Bem-vindo ao repositório do The Stealth Steal, um emocionante jogo de stealth em 3D onde você assume o papel de um espião habilidoso. Sua missão é se infiltrar no prédio de um importante governador, roubar informações confidenciais de um cofre em seu escritório e escapar sem ser detectado pelos guarda-costas.
 </p>
 
-:small_blue_diamond: <b>Gênero:</b> Stealth, suspence.
+## Objetivo do Jogo
+<p align="justify"> 
+	Você será desafiado a passar furtivamente por vários guarda-costas e completar os objetivos específicos de cada fase. Caso um guarda te encontre, o jogo recomeçará desde a primeira fase. Cada fase tem um objetivo claro e para passar para a próxima fase, você deve completar esse objetivo.
+</p>
 <br>
-<br>
-:small_blue_diamond: <b>Câmera:</b> 3ª pessoa.
-<br>
-<br>
-## Regras
-:small_blue_diamond: Caso um guarda te encontre, o jogo irá recomeçar desde a primeira fase.
-<br>
-<br>
-:small_blue_diamond: Cada fase tem um objetivo, para encerrá-la, deve-se finalizar o objetivo estipulado.
-<br>
-<br>
-:small_blue_diamond: Se a fase não for finalizada, o jogador continuará na cena, pois não tem tempo limite.
-<br>
-<br>
-## Descrição das cenas 
 
-:small_blue_diamond: <b>1º cena:</b> Será na parte de fora do prédio que o jogador deverá se infiltrar, ele estará em uma cidade, com alguns veículos e objetos para que possa se esconder dos guardas. O objetivo desta fase é entrar no prédio marcado na cena.
+## Controles
+:small_blue_diamond: <b>W, A, S, D ou Setas direcionais:</b>  Movimentação.
 <br>
 <br>
-:small_blue_diamond: <b>2º cena:</b> Após a primeira fase, o jogador se encontrará no térreo do prédio, com cadeiras, mesas, sofás e objetos de decoração para se esconder. O objetivo da fase é chegar até o elevador (que estará marcado no mapa).
+:small_blue_diamond: <b>Mouse:</b> Controle da câmera.
 <br>
 <br>
-:small_blue_diamond: <b>3º cena:</b> Após entrar no elevador, chega a última cena do game, que se trata do escritório no último andar com o objetos muito similar com o do primeiro andar. O objetivo desta fase é achar duas chaves escondidas na cena para que assim posa abrir o cofre e finalizar o game.
+:small_blue_diamond: <b>Tecla E:</b> Interagir com o ambiente e itens.
 <br>
 <br>
-## Idéia do Mobile
+
+## Fases e Objetivos
+:small_blue_diamond: <b>Fase 1 - Infiltração:</b> Entrar no prédio do governador sem ser detectado pelos guardas na rua da cidade.
+<br>
+<br>
+:small_blue_diamond: <b>Localizando o Escritório:</b> Encontrar o caminho até o escritório do governador por meio de um único elevador.
+<br>
+<br>
+:small_blue_diamond: <b>Acesso ao Cofre:</b>  Abrir o cofre e roubar as informações confidenciais.
+<br>
+<br>
+
+## Detecção e reinício
 <p align="justify"> 
-	A página inicial será uma tela separando duas opções que o usuário vai poder escolher. Sendo elas as opções "Guia" e "História". 
+	Se um guarda te detectar, o jogo será reiniciado desde a primeira fase. Você deve usar estratégia e habilidade para evitar a detecção.
 </p>
+
+## Desenvolvimento do Jogo
 <p align="justify"> 
-	O "Guia" será bem simples com certas instruções ao jogador em relação a cada fases caso o jogador tenha difilcudades ao tentar jogar cada nível, com algumas dicas e ensinar sobre os caminhos dos guardas (principal dificuldade). 
+	Este jogo foi desenvolvido como um projeto de entretenimento, explorando mecânicas de stealth e ação. Utilizou-se a engine Unity e tecnologia 3D para criar uma experiência imersiva.
 </p>
-<p align="justify"> 
-	Já a parte da "História" será contando um pouco com certos detalhes a narrativa por trás do jogo, que não vai ser abordada de forma profunda in-game.
-</p>
+

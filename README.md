@@ -3,7 +3,7 @@
 
 ## Descrição Geral do Game
 <p align="justify"> 
-	Bem-vindo ao repositório do The Stealth Steal, um emocionante jogo de stealth em 3D onde você assume o papel de um espião habilidoso. Sua missão é se infiltrar no prédio de um importante governador, roubar informações confidenciais de um cofre em seu escritório e escapar sem ser detectado pelos guarda-costas. Para informações mais precisas sobre o game, acesse o repositório sobre o nosso projeto mobile de Wiki do jogo: Clique Aqui!
+	Bem-vindo ao repositório do The Stealth Steal, um emocionante jogo de stealth em 3D onde você assume o papel de um espião habilidoso. Sua missão é se infiltrar no prédio de um importante governador, roubar informações confidenciais de um cofre em seu escritório e escapar sem ser detectado pelos guarda-costas. Para informações mais precisas sobre o game, acesse o repositório sobre o nosso projeto mobile de Wiki do jogo: <a href="https://github.com/RanierDC/StealthStealMobile">Clique Aqui!</a>
 </p>
 
 ## Objetivo do Jogo

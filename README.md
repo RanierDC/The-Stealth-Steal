@@ -42,6 +42,9 @@
 <br>
 :small_blue_diamond: <b>Acesso ao Cofre:</b>  Abrir o cofre e roubar as informações confidenciais.
 <br>
+
+<img height="250px" src="https://github.com/RanierDC/The-Stealth-Steal/assets/90422755/bce1f972-2b1f-4e3f-b600-645485ac9d4e"/>
+
 <br>
 
 ## Detecção e reinício

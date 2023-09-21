@@ -36,6 +36,9 @@
 
 :small_blue_diamond: <b>Localizando o Escritório:</b> Encontrar o caminho até o escritório do governador por meio de um único elevador.
 <br>
+
+<img height="250px" src="https://github.com/RanierDC/The-Stealth-Steal/assets/90422755/07aa8ced-3c5d-4139-bb88-759a1f148b6c"/>
+
 <br>
 :small_blue_diamond: <b>Acesso ao Cofre:</b>  Abrir o cofre e roubar as informações confidenciais.
 <br>

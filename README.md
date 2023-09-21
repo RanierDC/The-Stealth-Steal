@@ -29,7 +29,11 @@
 ## Fases e Objetivos
 :small_blue_diamond: <b>Fase 1 - Infiltração:</b> Entrar no prédio do governador sem ser detectado pelos guardas na rua da cidade.
 <br>
+
+<img height="250px" align="center" src="https://github.com/RanierDC/The-Stealth-Steal/assets/90422755/8f62a20a-c890-4b7f-9224-4d3ec2089c13"/>
+
 <br>
+
 :small_blue_diamond: <b>Localizando o Escritório:</b> Encontrar o caminho até o escritório do governador por meio de um único elevador.
 <br>
 <br>
